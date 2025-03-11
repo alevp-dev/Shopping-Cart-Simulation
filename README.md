@@ -39,7 +39,7 @@ Prerequisites
    - Finalize purchase to save it in the history.
 3. The system ensures stock validation before processing transactions.
 
-#🤝 Contributions
+# Contributions
 Contributions, issues, and feature requests are welcome! Feel free to fork this repository and submit a pull request.
 
 ---
