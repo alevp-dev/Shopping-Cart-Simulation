@@ -1,6 +1,4 @@
 # Shopping-Cart-Simulation
-
-# Shopping Cart System
 A simple command-line shopping cart system built with **Node.js**. Users can browse categories, add products to their cart, edit quantities, remove items, and finalize purchases. The system manages inventory and stores purchase history.
 
 # Features
