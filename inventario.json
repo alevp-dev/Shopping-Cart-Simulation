@@ -1,0 +1,56 @@
+{
+  "frutas": {
+    "zapote": {
+      "precioUnitario": 2000,
+      "cantidad": 10
+    },
+    "kiwi": {
+      "precioUnitario": 1500,
+      "cantidad": 10
+    },
+    "coco": {
+      "precioUnitario": 3000,
+      "cantidad": 16
+    },
+    "nispero": {
+      "precioUnitario": 2500,
+      "cantidad": 10
+    }
+  },
+  "verduras": {
+    "brocoli": {
+      "precioUnitario": 3000,
+      "cantidad": 14
+    },
+    "espinaca": {
+      "precioUnitario": 2000,
+      "cantidad": 9
+    },
+    "rabano": {
+      "precioUnitario": 1000,
+      "cantidad": 12
+    },
+    "pepino": {
+      "precioUnitario": 1500,
+      "cantidad": 10
+    }
+  },
+  "lacteos": {
+    "leche": {
+      "precioUnitario": 5000,
+      "cantidad": 16
+    },
+    "yogurt": {
+      "precioUnitario": 3000,
+      "cantidad": 16
+    },
+    "queso": {
+      "precioUnitario": 7000,
+      "cantidad": 20
+    },
+    "mantequilla": {
+      "precioUnitario": 2000,
+      "cantidad": 16
+    }
+  }
+}

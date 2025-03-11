@@ -1,0 +1,34 @@
+[
+  {
+    "usuario": {
+      "nombre": "Alejandra",
+      "edad": 22
+    },
+    "carrito": [
+      {
+        "categoria": "frutas",
+        "producto": "kiwi",
+        "cantidad": 2,
+        "precioUnitario": 1500
+      }
+    ],
+    "total": 3000,
+    "fecha": "2025-03-11T15:20:56.515Z"
+  },
+  {
+    "usuario": {
+      "nombre": "Andrés",
+      "edad": 25
+    },
+    "carrito": [
+      {
+        "categoria": "verduras",
+        "producto": "brocoli",
+        "cantidad": 1,
+        "precioUnitario": 3000
+      }
+    ],
+    "fecha": "2025-03-11T15:26:48.611Z",
+    "total": 3000
+  }
+]
