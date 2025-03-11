@@ -28,7 +28,7 @@ Prerequisites
    ```
 4. Run the application:
    ```bash
-   node src/app.js
+   node src/index.js
    ```
 
 # Usage Guide
