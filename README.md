@@ -20,7 +20,7 @@ Prerequisites
    ```
 2. Navigate to the project directory:
    ```bash
-   cd SimpleCartJS
+   cd Shopping-Cart-Simulation
    ```
 3. Install dependencies:
    ```bash
